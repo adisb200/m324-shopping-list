@@ -13,11 +13,22 @@ KI-Rolle: Nicht verwendet
 - ESLint Setup mit KI prüfen -> schon vorhanden -> Kontrolle
 - Test Completed
 - Add header Test + Dependencies with KI -> Code ergänzen 
-- Test Failed -> Conflict with dependency 
+- Test Failed -> ERROR Conflict with dependency 
 - Fixed Dependencies with AI -> Fehler behebung
 - Test Completed
 
 KI-Rolle: Kontrolle, Code ergänzung und Fehler behebung 
 
+
+---
+
+### Aufgabe 3: Optimierung der Pipeline
+- Mit Beispiel aus Unterricht -> Pipeline in Jobs aufgeteilt
+- Failed -> ERROR Cache failed -> 
+- Cache Step hinzufügen
+- Test Completed
+
+
+KI-Rolle: Nicht verwendet
 
 ---
