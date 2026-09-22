@@ -12,7 +12,7 @@ KI-Rolle: Nicht verwendet
 - Dependency hinzugefügt, Code & Tests 
 - ESLint Setup mit KI prüfen -> schon vorhanden -> Kontrolle
 - Test Completed
-- Add header Test + Dependencies with KI -> Code ergänzen 
+- Add header Test manuell + Dependencies with KI -> Code ergänzen 
 - Test Failed -> ERROR Conflict with dependency 
 - Fixed Dependencies with AI -> Fehler behebung
 - Test Completed
