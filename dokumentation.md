@@ -24,7 +24,7 @@ KI-Rolle: Kontrolle, Code ergänzung und Fehler behebung
 
 ### Aufgabe 3: Optimierung der Pipeline
 - Mit Beispiel aus Unterricht -> Pipeline in Jobs aufgeteilt
-- Failed -> ERROR Cache failed -> 
+- Failed -> ERROR Cache failed 
 - Cache Step hinzufügen
 - Test Completed
 
